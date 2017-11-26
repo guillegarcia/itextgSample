@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">itextgSample</string>
+    <string name="createPdfOk">The pdf has been created!</string>
+    <string name="createPdfError">There was an error :(</string>
+    <string name="createPdf">Create Pdf</string>
+    <string name="writeExternalStoragePermissisonsNedded">Sin permisos no se puede crear el PDF :´(</string>
+</resources>
